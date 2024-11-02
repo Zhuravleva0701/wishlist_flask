@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb0a9c77-ca2e-4183-8765-c16b66a27eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wishlist_flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist/templates/wishlist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wishlist/templates/wishlist/layout.html" afterDir="false" />
+    <list default="true" id="eb0a9c77-ca2e-4183-8765-c16b66a27eb8" name="Changes" comment="1.10">
+      <change afterPath="$PROJECT_DIR$/wishlist/static/static.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wishlist/templates/wishlist/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/wishlist/templates/wishlist/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +39,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,6 +63,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730380930204</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.10">
+      <option name="closed" value="true" />
+      <created>1730467764155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730467764155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.10">
+      <option name="closed" value="true" />
+      <created>1730468202284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730468202284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.10" />
   </component>
 </project>
