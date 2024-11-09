@@ -2,6 +2,8 @@ from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()
 
+"""Модель желаемого подарка"""
+
 
 class Item(db.Model):
     id = db.Column(db.Integer, primary_key=True)

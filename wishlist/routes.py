@@ -1,6 +1,9 @@
 from flask import Flask, request, render_template, url_for, redirect
 from wishlist.models import Item, db
 
+"""Основной функционал приложения описан функциями получения всех обьектов,
+добавления нового обьекта, обновления и удаления по айди, также инициализация самого приложения"""
+
 
 def create_app():
     app = Flask(__name__)
